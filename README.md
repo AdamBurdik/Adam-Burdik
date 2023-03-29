@@ -1,8 +1,6 @@
-⚒️ - Minecraft Builder
+👦 Adam Burdík | 14 years old
+⚙️ Solo Junior Programmer | Python, Javascript, Html and Css
+🇨🇿 From Czech Republic
 
-👨‍💻- Python, html, css
+Currently working on [c0re-bot.tk](http://c0re-bot.tk) | Discord bot and website
 
-⚙️ - Setting up discord servers
-
-🤖 - Developing c0re
-       - https://dsc.gg/c0re-support
